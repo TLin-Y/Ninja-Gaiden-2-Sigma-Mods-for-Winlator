@@ -21,7 +21,7 @@ Special thanks to the mod writers:
 > ⚠️ **Use only ONE of the above mods — do not combine them.** The Black Mod (#1) already includes the Gore Effects from #2 but with additional features (more complicated).
 
 ### 3. GameHub Load Container Config & Driver Settings
-- Load this into your GameHub container.
+- Refer to the screenshots for setup guidance.
 
 ---
 

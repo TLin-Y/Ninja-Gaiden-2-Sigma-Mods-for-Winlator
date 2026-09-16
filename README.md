@@ -25,43 +25,15 @@ Special thanks to the mod writers:
 
 ---
 
-## Installation
+## Setup
 
-1. Copy **all files** from a mod folder into your **game root directory**.
-
-## GameHub / Winlator Setup
-
-### Driver Installation
-Import the driver files (`winexinput.inf`, `winehid.pnf`, `input.pnf`) into your Winlator container for proper controller support.
-
-### Save Data
-Save files included:
-- `USER_SETTING/WINSTATE.DAT` — controller/window state
-- `SYSTEMSAVE.DAT` — system save data
-- `STORYSAV0.DAT` — story progress save
-
-### DXVK Config
-DXVK cache files (`*.dxvk.bin`, `.dxvk.lut`) are included for shader optimization.
-
----
-
-## Controller Setup (Winlator)
-
-To fix the RP Nova Xbox controller issue, set the following Winlator environment variable:
+1. Copy all files from **one** of the mod folders into your game root directory.
+2. In GameHub, load the `NINJA GAIDEN Σ2_1789509532009.zip` container config.
+3. Set the Winlator environment variable:
 
 ```
 WINEDLLOVERRIDES=dinput8=n,b
 ```
 
-### GameHub Input Mapping
-
-Configure the following mapping in GameHub:
-
-| Action | Key Binding |
-|---|---|
-| Left Stick Push | `ALT` |
-| Right Stick Push | `ENTER` |
-
-### Controller Detection
-
-At the game's beginning screen, **push both mapped keys twice** to select and pick up the controller.
+4. In GameHub input mapping: set **Left Stick Push** = `ALT`, **Right Stick Push** = `ENTER`.
+5. At the game's beginning screen, **push both mapped keys twice** to pick up the controller.

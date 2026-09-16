@@ -1,5 +1,15 @@
 # Ninja Gaiden Sigma 2 Mods
 
+## Special Thanks
+
+Special thanks to the mod writers:
+
+- **Nozomi Miyamori**
+- **Fiend Busa**
+- **Lyall** ([Codeberg](https://codeberg.org/Lyall/NinjaGaidenMCFix))
+
+---
+
 ## Mods
 
 ### 1. Black Mod
@@ -34,21 +44,13 @@ Save files included:
 - `STORYSAV0.DAT` — story progress save
 
 ### DXVK Config
-DXVK cache files (`*.dxvk.bin`, `*.dxvk.lut`) are included for shader optimization.
+DXVK cache files (`*.dxvk.bin`, `.dxvk.lut`) are included for shader optimization.
 
 ---
 
 ## Controller Setup (Winlator)
 
----
-
-## Special Thanks
-
-Special thanks to the mod writers:
-
-- **Nozomi Miyamori**
-- **Fiend Busa**
-- **Lyall** ([Codeberg](https://codeberg.org/Lyall/NinjaGaidenMCFix))
+To fix the RP Nova Xbox controller issue, set the following Winlator environment variable:
 
 ```
 WINEDLLOVERRIDES=dinput8=n,b

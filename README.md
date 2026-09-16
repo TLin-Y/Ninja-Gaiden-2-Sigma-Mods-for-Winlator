@@ -28,7 +28,7 @@ Special thanks to the mod writers:
 ## Setup
 
 1. Copy all files from **one** of the mod folders into your game root directory.
-2. In GameHub, load the `NINJA GAIDEN Σ2_1789509532009.zip` container config.
+2. Refer to the screenshots for GameHub container config and driver setup.
 3. Set the Winlator environment variable:
 
 ```

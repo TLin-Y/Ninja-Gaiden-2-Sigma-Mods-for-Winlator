@@ -14,17 +14,14 @@ Special thanks to the mod writers:
 
 ### 1. Black Mod
 - **Source:** [Nexus Mods #37](https://www.nexusmods.com/ninjagaidenmastercollection/mods/37)
-- **Contents:** `NinjaGaidenMCFix.asi`, `NinjaGaidenMCFix.ini`, `dbghelp.asi`, `dinput8.dll`, `mods/`, `plugin/`
 
 ### 2. Gore Effects 4:3 Aspect Ratio (Optimized for RP Nova)
 - **Source:** [Nexus Mods #236](https://www.nexusmods.com/ninjagaidenmastercollection/mods/236?tab=description)
-- **Contents:** `NinjaGaidenMCFix.asi`, `NinjaGaidenMCFix.ini`, `dbghelp.asi`, `dinput8.dll`, `mods/`, `plugin/`
 
 > ⚠️ **Use only ONE of the above mods — do not combine them.** The Black Mod (#1) already includes the gore effects from #2 but with additional features (more complicated).
 
 ### 3. GameHub Load Container Config & Driver Settings
-- **Source:** Local container config
-- **Contents:** Driver files (`winexinput.inf`, `winehid.pnf`, `input.pnf`), save data (`USER_SETTING/WINSTATE.DAT`, `SYSTEMSAVE.DAT`, `STORYSAV0.DAT`), DXVK cache (`.dxvk.bin`, `.dxvk.lut`), and achievements/leaderboards config
+- Load this into your GameHub container.
 
 ---
 

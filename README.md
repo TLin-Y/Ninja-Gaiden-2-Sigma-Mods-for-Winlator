@@ -10,15 +10,15 @@ Special thanks to the mod writers:
 
 ---
 
-## Mods
+## Mods 4:3 Aspect Ratio (Optimized for RP Nova)
 
 ### 1. Black Mod
 - **Source:** [Nexus Mods #37](https://www.nexusmods.com/ninjagaidenmastercollection/mods/37)
 
-### 2. Gore Effects 4:3 Aspect Ratio (Optimized for RP Nova)
+### 2. Gore Effects
 - **Source:** [Nexus Mods #236](https://www.nexusmods.com/ninjagaidenmastercollection/mods/236?tab=description)
 
-> ⚠️ **Use only ONE of the above mods — do not combine them.** The Black Mod (#1) already includes the gore effects from #2 but with additional features (more complicated).
+> ⚠️ **Use only ONE of the above mods — do not combine them.** The Black Mod (#1) already includes the Gore Effects from #2 but with additional features (more complicated).
 
 ### 3. GameHub Load Container Config & Driver Settings
 - Load this into your GameHub container.

@@ -1,0 +1,91 @@
+{
+  "waves": [
+    {
+      "waveType": "WaveOne",
+      "entities": [
+        {
+          "entID": "0x0004",
+          "spawnLocation": "0x0920",
+          "spawnInAnim": "0x01",
+          "aggressiveType": "0x1C",
+          "modeone": "0xFF",
+          "modetwo": "0xFF",
+          "modethree": "0xFF",
+          "modefour": "0xFF",
+          "modefive": "0xFF",
+          "modesix": "0xFF"
+        },
+        {
+          "entID": "0x0008",
+          "spawnLocation": "0x09A0",
+          "spawnInAnim": "0x01",
+          "aggressiveType": "0x1C",
+          "modeone": "0xFF",
+          "modetwo": "0xFF",
+          "modethree": "0xFF",
+          "modefour": "0xFF",
+          "modefive": "0xFF",
+          "modesix": "0xFF"
+        }
+      ]
+    },
+    {
+      "waveType": "WaveOneA",
+      "entities": [
+        {
+          "entID": "0x0006",
+          "spawnLocation": "0x0920",
+          "spawnInAnim": "0x01",
+          "aggressiveType": "0x1C",
+          "modeone": "0xFF",
+          "modetwo": "0xFF",
+          "modethree": "0xFF",
+          "modefour": "0xFF",
+          "modefive": "0xFF",
+          "modesix": "0xFF"
+        },
+        {
+          "entID": "0x009E",
+          "spawnLocation": "0x09A0",
+          "spawnInAnim": "0x01",
+          "aggressiveType": "0x1C",
+          "modeone": "0xFF",
+          "modetwo": "0xFF",
+          "modethree": "0xFF",
+          "modefour": "0xFF",
+          "modefive": "0xFF",
+          "modesix": "0xFF"
+        }
+      ]
+    },
+    {
+      "waveType": "WaveOneB",
+      "entities": [
+        {
+          "entID": "0x007F",
+          "spawnLocation": "0x0920",
+          "spawnInAnim": "0x01",
+          "aggressiveType": "0x1C",
+          "modeone": "0xFF",
+          "modetwo": "0xFF",
+          "modethree": "0xFF",
+          "modefour": "0xFF",
+          "modefive": "0xFF",
+          "modesix": "0xFF"
+        },
+        {
+          "entID": "0x009C",
+          "spawnLocation": "0x09A0",
+          "spawnInAnim": "0x01",
+          "aggressiveType": "0x1C",
+          "modeone": "0xFF",
+          "modetwo": "0xFF",
+          "modethree": "0xFF",
+          "modefour": "0xFF",
+          "modefive": "0xFF",
+          "modesix": "0xFF"
+        }
+      ]
+    }
+  ]
+}

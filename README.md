@@ -11,6 +11,7 @@ Special thanks to the mod writers:
 ---
 
 ## Mods 4:3 Aspect Ratio (Optimized for RP Nova)
+Editing the .ini file can force lock it to any resolution and aspect ratio, ignoring Winlator's limits
 
 ### 1. Black Mod
 - **Source:** [Nexus Mods #37](https://www.nexusmods.com/ninjagaidenmastercollection/mods/37)

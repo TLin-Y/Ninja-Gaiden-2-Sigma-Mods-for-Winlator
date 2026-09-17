@@ -28,7 +28,7 @@ Special thanks to the mod writers:
 ## Setup
 
 1. Copy all files from **one** of the mod folders into your game root directory.
-2. Refer to the screenshots for Winlator container config and driver setup.
+2. Refer to the screenshots for Winlator(GameHub/Light, Ludashi etc.) container config and driver setup. 
 3. Set the Winlator environment variable:
 
 ```

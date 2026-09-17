@@ -34,6 +34,6 @@ Special thanks to the mod writers:
 ```
 WINEDLLOVERRIDES=dinput8=n,b
 ```
-
-4. In input mapping: set **Left Stick Push**(any unused) = `ALT`, **Right Stick Push** = `ENTER`.
-5. At the game's beginning screen, **push both mapped keys twice** to pick up the controller.
+If controller not working:
+a. In input mapping: set **Left Stick Push**(any unused) = `ALT`, **Right Stick Push** = `ENTER`.
+b.  At the game's beginning screen, **push both mapped keys twice** to pick up the controller. (fullscreen switch)

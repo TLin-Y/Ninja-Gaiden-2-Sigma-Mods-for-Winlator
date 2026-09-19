@@ -29,12 +29,9 @@ Editing the .ini file can force lock it to any resolution and aspect ratio, igno
 ## Setup
 
 1. Copy all files from **one** of the mod folders into your game root directory.
-2. Refer to the screenshots for Winlator (GameHub/Light, Ludashi etc.) container config and driver setup. 
+2. Refer to the screenshots for Winlator (Cmodv13, GameHub/Light etc.) container config and driver setup. 
 3. Set the Winlator environment variable:
 
 ```
 WINEDLLOVERRIDES=dinput8=n,b
 ```
-If controller not working:
-a. In input mapping: set **Left Stick Push**(any unused) = `ALT`, **Right Stick Push** = `ENTER`.
-b.  At the game's beginning screen, **push both mapped keys twice** to pick up the controller. (fullscreen switch)
